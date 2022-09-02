@@ -18,6 +18,7 @@ body {
   color: #8BB1F4;
   transition:0s 0.3s; /* 0.3 second duration active */
   transform: scale(3);
+  background-color: transparent;
 }
 #minusbtn:active , #plusbtn:active {
   color: #3A79EE;
